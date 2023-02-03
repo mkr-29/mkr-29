@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web Development
 - 💻 I code when I am at my low
-![1000GIF](https://user-images.githubusercontent.com/84685141/216693927-8b313b51-24bc-4bb0-a61e-12f016e49a0b.gif)
-
 
 
 
