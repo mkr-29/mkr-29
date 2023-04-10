@@ -17,6 +17,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mkr-29&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mkr-29&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## Visitor's Count
 ![Visitor Count](https://profile-counter.glitch.me/mkr-29/count.svg)
 
 ## 🏆 GitHub Trophies
